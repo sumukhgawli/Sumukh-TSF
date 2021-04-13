@@ -1,0 +1,96 @@
+.intro h2{
+   font-weight: bolder;  
+   font-size: 3em; 
+}
+p{
+    font-weight: bolder;
+    font-size: 1.5em;
+    
+}
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Poppins;
+    color: #707070;
+}
+.intro span{
+    color:#D1D801;
+}
+body{
+    margin: 5% 5%;
+    line-height: 20px;
+}
+.rect{
+    width: 15%;
+    height: 120vh;
+    background-color: #3DE1F9;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+.intro , .contact , .about{
+    margin-bottom: 5%;
+}
+.contact span {
+    border-bottom: solid 5px #1DD053;
+}
+.about span {
+    border-bottom: solid 5px #E20D0D;
+}
+.skill span{
+    border-bottom: solid 5px #7510E8;
+}
+.skilllogo {
+    display: flex ;
+    margin: 55px auto;
+}
+.html , .css ,  .python{
+    background-color: rgb(255,255,255);
+    border-radius: 25%;
+    box-shadow: 3px 8px 25px 0px rgba(0,0, 0,0.62);
+    padding: 15px 40px;
+    text-align: center;
+    margin-right: 50px;
+    
+}
+.edu span {
+    border-bottom: solid 5px #D1D801;
+}
+#heading{
+    border-collapse: collapse ;
+    width:50%;
+
+}
+#heading  th{
+    padding: 12px 12px;
+    text-align: center;
+    background-color: #2c41d3;
+    color: #fff;
+    font-weight: bolder;
+}
+#data{
+    border-collapse: separate;
+    border-spacing: 0 8px;
+    width: 50%;
+}
+#data td{
+    
+    padding: 12px 12px;
+    background-color: #dbd8db;
+    color: #000;
+
+    
+}
+th,td{
+    text-align: center;
+    width: 150px;
+    font-weight: bolder;
+}
+#pic{
+    border-radius: 50%;
+    width: 210;
+    height: 210px;
+    position: absolute;
+    top: 1.5%;
+    right: 20%;
+}

@@ -1,0 +1,12 @@
+label{
+    font-size: larger;
+    color: rgb(121, 95, 61);
+}
+input{
+    border-radius: 15px;
+    background-color: rgb(253, 234, 209);
+}
+textarea{
+    border-radius: 15px;
+    background-color: rgb(253, 234, 209);
+}
