@@ -1,2 +1,14 @@
 # Sumukh-TSF
-Sparks foundation task to integrate payment gate way done sucessfully
+Hello ,
+I have completed my 1st task which is Payment Gateway Integration under the work domain function "Web Development and Designining " .
+I would like to thank The Sparks Foundation for giving me this wonderful opportunity which helped me to get the best out of me!
+
+Technology Used: HTML5/CSS3/BOOTSTRAP4
+Payment Integration: Razorpay
+
+Youtube Link: 
+Live Demo: 
+Github Link: https://youtu.be/VBg-Gr9STyk
+
+Journey of Novice to Pro Begins!
+Any feedback or suggestions will be appreciated.
