@@ -6,9 +6,9 @@ I would like to thank The Sparks Foundation for giving me this wonderful opportu
 Technology Used: HTML5/CSS3/BOOTSTRAP4
 Payment Integration: Razorpay
 
-Youtube Link: 
-Live Demo: 
-Github Link: https://youtu.be/VBg-Gr9STyk
+Youtube Link:  https://youtu.be/VBg-Gr9STyk
+Live Demo:  
+Github Link:  https://github.com/sumukhgawli/Sumukh-TSF
 
 Journey of Novice to Pro Begins!
 Any feedback or suggestions will be appreciated.
